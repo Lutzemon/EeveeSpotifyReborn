@@ -1,4 +1,5 @@
 name: Build and Release Swift
+permissions: write-all
 
 on:
   workflow_dispatch: 
