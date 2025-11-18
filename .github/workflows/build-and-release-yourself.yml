@@ -1,4 +1,5 @@
 name: Create IPA Packages
+permissions: write-all
 
 on:
   workflow_dispatch:
